@@ -8,7 +8,7 @@ import os.path
 import random
 import argparse
 sys.path.append('%s/../../pytorch_DGCNN' % os.path.dirname(os.path.realpath(__file__)))
-#from main import *
+from main import *
 from util_functions import *
 from torch_geometric.data import DataLoader
 from model import Net
