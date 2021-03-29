@@ -6,6 +6,7 @@
 
 Pytorch implementation of [Line Graph Neural Networks for Link Prediction](https://arxiv.org/pdf/2010.10046.pdf).
 
+![model](./LGLP/Python/line.pdf)
 
 ## System requirement
 
